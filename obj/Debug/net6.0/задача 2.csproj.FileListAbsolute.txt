@@ -1,0 +1,15 @@
+D:\ДЗ\дз2212\задача 2\bin\Debug\net6.0\задача 2.exe
+D:\ДЗ\дз2212\задача 2\bin\Debug\net6.0\задача 2.deps.json
+D:\ДЗ\дз2212\задача 2\bin\Debug\net6.0\задача 2.runtimeconfig.json
+D:\ДЗ\дз2212\задача 2\bin\Debug\net6.0\задача 2.dll
+D:\ДЗ\дз2212\задача 2\bin\Debug\net6.0\задача 2.pdb
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.csproj.AssemblyReference.cache
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.AssemblyInfoInputs.cache
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.AssemblyInfo.cs
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.csproj.CoreCompileInputs.cache
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.dll
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\refint\задача 2.dll
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.pdb
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\задача 2.genruntimeconfig.cache
+D:\ДЗ\дз2212\задача 2\obj\Debug\net6.0\ref\задача 2.dll
